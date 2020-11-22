@@ -1,5 +1,5 @@
 #Varo 
-![Varo Logo](https://images.app.goo.gl/Vq7mtyFayAwvZRLh8)
+![Varo Logo](https://www.varomoney.com/wp-content/uploads/2019/11/varo-money-logo.jpg)
 ## Overview and Origin
 
 * Name of company
