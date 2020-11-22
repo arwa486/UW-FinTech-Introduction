@@ -1,4 +1,4 @@
-#Varo 
+ 
 ![Varo Logo](https://www.varomoney.com/wp-content/uploads/2019/11/varo-money-logo.jpg)
 ## Overview and Origin
 
@@ -28,30 +28,33 @@ Provide an alternative to traditional banks for younger earners (Wikipedia.org).
 Word of mouth and referrals for new customers. Using SM for acquiring new users. Predominantly of users in the Millenial and Gen Z age groups. Not rich users between $40,000 and $80,000 in yearly income. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+Varo currently uses the standard technology stacks of Front-end and Back-end development. 
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
-Retail banking sector. Existing players in the sector include megabanks such as JPMorgan Chaes, Bank of America to regional banks and credit unions. Other startup neobanks such as Ally
+Retail banking sector. Existing players in the sector include megabanks such as JPMorgan Chaes, Bank of America to regional banks and credit unions. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+The industry has moved to online and mobile banking. As more consumers pay for goods and services through online or mobile platforms, banks have had to shift their products and services to meet that demand. 
 
 * What are the other major companies in this domain?
-
+Other startup neobanks such as Ally [Ally](https://www.ally.com) or N26 [N26](https://n26.com/en-us) 
 
 ## Results
 
 * What has been the business impact of this company so far?
+The biggest business impact of Varo has been growing its consumer base. It provides services to customers who traditionally have been left out of the retail banking sector. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
-
+Varo sucessfully received its banking charter on August 1, 2020. This is ahead of its FinTech peers that have to partner with existing banking corporations to provide chartered and insured banking services. 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+ 
 
 * Why do you think that offering this product or service would benefit the company?
 
