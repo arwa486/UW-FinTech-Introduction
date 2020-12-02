@@ -47,6 +47,7 @@ Other startup neobanks such as Ally [Ally](https://www.ally.com) or N26 [N26](ht
 The biggest business impact of Varo has been growing its consumer base. It provides services to customers who traditionally have been left out of the retail banking sector. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Typically companies in this domain use increase in customer growth and assets under management (AUM) as a metric of growth. For Varo, both its customer base and AUM are growing. 
 
 * How is your company performing relative to competitors in the same domain?
 Varo sucessfully received its banking charter on August 1, 2020. This is ahead of its FinTech peers that have to partner with existing banking corporations to provide chartered and insured banking services. 
@@ -54,10 +55,13 @@ Varo sucessfully received its banking charter on August 1, 2020. This is ahead o
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
- 
+ They should offer competitive loans for customers and non-customers. So far Varo does not offer loan products which is something other FinTech companies do (e.g. LendingClub [LendingClub](https://www.lendingclub.com)). 
 
 * Why do you think that offering this product or service would benefit the company?
+Loans are assets for the creditor. By issuing loans to customers and non-customers at competitive rates, they increase their brand awareness and business revenue. 
 
 * What technologies would this additional product or service utilize?
+To offer competitive rates, Varo could use "Artificial Intelligence" to determine the size, rate, and term of the loan. While this technology is still being tested and would need to be reviewed by a human for compliance, it would reduce bias and inefficiency of the traditional loan officer/agent. It could also create data that can be used to provide further tailoring of the loans. 
 
 * Why are these technologies appropriate for your solution?
+Artificial Intelligence is already being used in the banking sector. Products such as Mint by Intuit [Mint](https://mint.intuit.com) to Erica by Bank of America [Erica](https://promo.bankofamerica.com/erica/) use machine learning algorithms of customer data to provide insights into spending patterns and provide notices (e.g. "Upcoming Phone Bill"). 
