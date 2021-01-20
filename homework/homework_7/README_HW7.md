@@ -10,7 +10,7 @@ The entity relationship diagram (ERD):  ![Entinty Relationship Diagram](QuickDBD
 
 ### Part 1 
 
-- How cam you isolate (or group) the transactions of each cardholder? 
+- How can you isolate (or group) the transactions of each cardholder? 
 There are a variety of ways to isolate the transactions of the card number. The transactions can be isolated  merchant_id and corresponding links (i.e. a specific bar or restaurant), timestamp, or amount. 
 - Count the transactions that are less than $2.00 per cardholder.
 
