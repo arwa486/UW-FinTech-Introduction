@@ -10,4 +10,4 @@
 
 ## Linear Regression Forecasting
 
-1. The Out-of-Sample data performed better (4.15*10^(-3)) in comparison to the In-Sample data (5.96*10^(-3)). 
+1. The Out-of-Sample data performed better (4.15 x 10^(-3)) in comparison to the In-Sample data (5.96 x 10^(-3)). 
