@@ -1,0 +1,20 @@
+=============== Apr 6, 2021 (PDT) ===============
+21:58:41.940631 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:58:41.945620 db@open opening
+21:58:41.947613 version@stat F·[] S·0B[] Sc·[]
+21:58:41.948610 db@janitor F·2 G·0
+21:58:41.948610 db@open done T·2.99ms
+21:58:41.950605 db@close closing
+21:58:41.950605 db@close done T·0s
+=============== Apr 6, 2021 (PDT) ===============
+22:07:01.449670 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:07:01.451667 version@stat F·[] S·0B[] Sc·[]
+22:07:01.451667 db@open opening
+22:07:01.451667 journal@recovery F·1
+22:07:01.461640 journal@recovery recovering @1
+22:07:01.465637 memdb@flush created L0@2 N·15 S·1KiB "$\xf9\xb4..UQ6,v3":"\xf2\xd9\xe5..\xea$h,v5"
+22:07:01.471614 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+22:07:01.479591 db@janitor F·3 G·0
+22:07:01.479591 db@open done T·27.9236ms
+23:34:03.751263 db@close closing
+23:34:03.752258 db@close done T·994.4µs

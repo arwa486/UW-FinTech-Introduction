@@ -1,0 +1,25 @@
+UW FinTech Bootcamp HW #18
+
+node: acct1
+pass: acct1
+
+Public Key: 0x978dec6526f4925f98Ef091Bf01e468f1240359d
+Private Key 
+
+node: acct2 
+pass: acct2
+
+Public Key: 0x7A899598bD5b5139a1cA9A78dF24f43a9c8119F6
+Private Key 
+
+node: acct3
+pass: acct3
+
+Public Key: 0x1D74a14c3a47EB106fcF6D57ae58C113CBDb4e91
+Private Key 
+
+Start Node 1 
+./geth --datadir acct1 --mine --minerthreads 1
+
+Start Node 2
+./geth --datadir acct2 --port 30304 --rpc --bootnodes "enode://05cc8aa1bcfb49c9915fb515585b59cc21ef7484cd0bd40132a1ba7918553043af5ee682ef699c1dc28293ab0e57a7b781ae65c105abcd3905a4877b7d6c53f1@127.0.0.1:30303" --ipcdisable 
