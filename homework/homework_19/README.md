@@ -3,7 +3,7 @@
 
 ## Project Setup 
 
-See the *requirements.txt* for the Python libraries needed for the project. 
+See the [*requirements.txt*][2] for the Python libraries needed for the project. 
 
 - Open a terminal window and create a directory `wallet`. 
 - `cd` into `wallet`
@@ -31,6 +31,10 @@ ETH = 'eth'
 BTCTEST = 'btc-test'
 ```
 
+- Setup `wallet.py` to import the constants in `constants.py` with `from constants import *`. Remember to have the `constants.py` file in the same directory as the `wallet.py` file. 
+
+- Create a 12 word mnemonic using `hd-wallet-derive`: 
+
 
 
 
@@ -39,3 +43,4 @@ BTCTEST = 'btc-test'
 
 
 [1]: https://github.com/dan-da/hd-wallet-derive
+[2]: ./requirements.txt 
