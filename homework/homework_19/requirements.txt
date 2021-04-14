@@ -1,0 +1,18 @@
+Python libaries to be installed:
+- bit (Bitcoin) https://pypi.org/project/bit/
+- lit (Litecoin) https://github.com/blockterms/lit
+- json 
+- os
+- python-dotenv (for accessing the .env file) https://pypi.org/project/python-dotenv/
+- subprocess 
+
+
+Python "tools" 
+- web3.py (Ethereum) https://web3py.readthedocs.io/en/stable/
+
+HD-Wallet-Derive 
+- CLI tool to create BIP32 addresses and private keys for Bitcoin and other altcoins. https://github.com/dan-da/hd-wallet-derive
+
+PHP 
+- XAMPP (Windows) https://www.apachefriends.org/index.html
+- Homebrew (mac OS) https://brew.sh/
